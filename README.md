@@ -8,3 +8,4 @@ steganography project for DS
 
 Original image (right) compared with an image that is encoded using High-Variance LSB (left).
 
+The goal of the project is to develop a steganography algorithm that adresses a flaw with normal least-significant-bit (LSB) steganography. High-Variance-LSB aims to improve LSB by only hiding data within areas of the image that are high in complexity.
